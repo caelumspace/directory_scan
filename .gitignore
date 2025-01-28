@@ -31,3 +31,7 @@ build/*
 *.exe
 *.out
 *.app
+
+# Documents
+*.docx
+*.pdf
